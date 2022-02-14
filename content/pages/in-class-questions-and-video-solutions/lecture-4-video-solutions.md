@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: In-Class Questions and Video Solutions
+parent_type: CourseSection
 parent_uid: cc74bf5b-1a22-399e-2712-70abfff469d7
 title: Lecture 4 Video Solutions
+type: CourseSection
 uid: 0170dc8c-3b84-7dd4-8959-9a073ea30d78
 ---
 
-[<< Return to In-Class Questions]({{< baseurl >}}/pages/in-class-questions-and-video-solutions)
+[\<\< Return to In-Class Questions]({{< baseurl >}}/pages/in-class-questions-and-video-solutions)
 
 Function Calls
 --------------

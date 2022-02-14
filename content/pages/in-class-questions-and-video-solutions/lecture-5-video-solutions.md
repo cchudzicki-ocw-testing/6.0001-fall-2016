@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: In-Class Questions and Video Solutions
+parent_type: CourseSection
 parent_uid: cc74bf5b-1a22-399e-2712-70abfff469d7
 title: Lecture 5 Video Solutions
+type: CourseSection
 uid: a57c7786-04ec-0743-8250-f01957eb34b1
 ---
 
-[<< Return to In-Class Questions]({{< baseurl >}}/pages/in-class-questions-and-video-solutions)
+[\<\< Return to In-Class Questions]({{< baseurl >}}/pages/in-class-questions-and-video-solutions)
 
 Tuples
 ------
