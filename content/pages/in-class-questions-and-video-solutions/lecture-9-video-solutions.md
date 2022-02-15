@@ -5,7 +5,6 @@ parent_title: In-Class Questions and Video Solutions
 parent_type: CourseSection
 parent_uid: cc74bf5b-1a22-399e-2712-70abfff469d7
 title: Lecture 9 Video Solutions
-type: CourseSection
 uid: a105f0a2-2069-6d6d-2ecb-c3a529f3eeaa
 ---
 

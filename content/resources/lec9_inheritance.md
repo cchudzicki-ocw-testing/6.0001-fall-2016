@@ -9,6 +9,5 @@ parent_title: Lecture Slides and Code
 parent_type: CourseSection
 resourcetype: Other
 title: lec9_inheritance.py
-type: OCWFile
 uid: bf8e8195-044d-5f6a-efc1-a455968e2f3e
 ---

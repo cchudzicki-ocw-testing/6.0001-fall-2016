@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_0001F16_Style Guide
-type: OCWFile
 uid: f79b8710-4b0a-0f78-7f6a-43413e8eafd0
 ---

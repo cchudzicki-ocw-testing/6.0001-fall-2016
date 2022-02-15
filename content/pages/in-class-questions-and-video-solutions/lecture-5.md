@@ -5,7 +5,6 @@ parent_title: In-Class Questions and Video Solutions
 parent_type: CourseSection
 parent_uid: cc74bf5b-1a22-399e-2712-70abfff469d7
 title: Lecture 5
-type: CourseSection
 uid: 2d1ecaea-f49e-8ee7-cac3-ea3ce9cbe081
 ---
 

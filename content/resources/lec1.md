@@ -9,6 +9,5 @@ parent_title: Lecture Slides and Code
 parent_type: CourseSection
 resourcetype: Other
 title: lec1.py
-type: OCWFile
 uid: 920cc911-b6eb-5747-f2cc-d431bbc4306b
 ---

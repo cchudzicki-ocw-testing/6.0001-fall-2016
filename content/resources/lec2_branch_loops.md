@@ -9,6 +9,5 @@ parent_title: Lecture Slides and Code
 parent_type: CourseSection
 resourcetype: Other
 title: lec2_branch_loops.py
-type: OCWFile
 uid: d6ee838e-e4c8-5ace-93a4-e170cfd83c03
 ---

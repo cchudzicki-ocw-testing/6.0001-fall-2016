@@ -9,6 +9,5 @@ parent_title: Lecture Slides and Code
 parent_type: CourseSection
 resourcetype: Other
 title: lec6_recursion_dictionaries.py
-type: OCWFile
 uid: 706228e5-9276-1d9c-7c1c-073f8ba7a6cc
 ---

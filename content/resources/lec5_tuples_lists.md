@@ -9,6 +9,5 @@ parent_title: Lecture Slides and Code
 parent_type: CourseSection
 resourcetype: Other
 title: lec5_tuples_lists.py
-type: OCWFile
 uid: cdf5f8e7-f109-9526-55f4-d253ed955555
 ---

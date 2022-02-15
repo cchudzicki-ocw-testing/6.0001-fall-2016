@@ -9,6 +9,5 @@ parent_title: Lecture Slides and Code
 parent_type: CourseSection
 resourcetype: Other
 title: lec7_debug_except.py
-type: OCWFile
 uid: abdd1d61-892c-cce9-be2a-d84e52004e07
 ---

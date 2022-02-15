@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_0001F16_Additional Python Resources
-type: OCWFile
 uid: 5dbf3131-e472-f4f0-13b1-896c05b9f7a3
 ---

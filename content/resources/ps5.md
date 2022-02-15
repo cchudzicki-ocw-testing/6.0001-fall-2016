@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: ps5.zip
-type: OCWFile
 uid: 3a797988-eba0-b1aa-0a9f-5beacf1b446e
 ---

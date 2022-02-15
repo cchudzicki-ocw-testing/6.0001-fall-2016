@@ -9,6 +9,5 @@ parent_title: Lecture Slides and Code
 parent_type: CourseSection
 resourcetype: Other
 title: lec10_complexity_part1.py
-type: OCWFile
 uid: bfa32fd2-41d8-8ae0-2cd3-157aed232bac
 ---

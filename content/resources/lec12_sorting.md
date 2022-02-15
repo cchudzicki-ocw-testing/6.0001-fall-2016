@@ -9,6 +9,5 @@ parent_title: Lecture Slides and Code
 parent_type: CourseSection
 resourcetype: Other
 title: lec12_sorting.py
-type: OCWFile
 uid: 310536cd-5f5a-a1fc-0c11-726ce13c565e
 ---
