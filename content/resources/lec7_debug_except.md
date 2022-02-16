@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-0001-intro
 file_type: text/python-source
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Slides and Code
 parent_type: CourseSection
 resourcetype: Other
