@@ -9,7 +9,7 @@ title: Lecture 5 Video Solutions
 uid: a57c7786-04ec-0743-8250-f01957eb34b1
 ---
 
-[\<\< Return to In-Class Questions]({{< baseurl >}}/pages/in-class-questions-and-video-solutions)
+{{< resource_link cc74bf5b-1a22-399e-2712-70abfff469d7 "\<\< Return to In-Class Questions" >}}
 
 Tuples
 ------

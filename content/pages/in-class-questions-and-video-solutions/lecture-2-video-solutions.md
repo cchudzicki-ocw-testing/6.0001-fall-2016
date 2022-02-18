@@ -9,7 +9,7 @@ title: Lecture 2 Video Solutions
 uid: 01c07d8f-bd40-6440-2253-a19dcc1754ea
 ---
 
-[\<\< Return to In-Class Questions]({{< baseurl >}}/pages/in-class-questions-and-video-solutions)
+{{< resource_link cc74bf5b-1a22-399e-2712-70abfff469d7 "\<\< Return to In-Class Questions" >}}
 
 Strings
 -------
