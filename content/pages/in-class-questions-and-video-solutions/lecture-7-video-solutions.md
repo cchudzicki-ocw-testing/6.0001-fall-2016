@@ -9,7 +9,7 @@ title: Lecture 7 Video Solutions
 uid: c7d87e11-79bb-caad-0a2e-edbc7c6c03c8
 ---
 
-{{< resource_link cc74bf5b-1a22-399e-2712-70abfff469d7 "\<\< Return to In-Class Questions" >}}
+{{% resource_link cc74bf5b-1a22-399e-2712-70abfff469d7 "\<\< Return to In-Class Questions" %}}
 
 Black Box and Glass Box Testing
 -------------------------------
