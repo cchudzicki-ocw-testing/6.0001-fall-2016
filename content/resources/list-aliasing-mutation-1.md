@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class exercise demonstrates list how aliasing affects other list operations in Python.
 
 **Instructor:** Dr. Ana Bell
+

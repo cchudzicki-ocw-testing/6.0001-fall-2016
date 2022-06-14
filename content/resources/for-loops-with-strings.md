@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class question demonstrates how loops can be used with strings in Python.
 
 **Instructor:** Dr. Ana Bell
+

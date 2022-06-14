@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class question explains the how a class instance is initialized in Python.
 
 **Instructor:** Dr. Ana Bell
+

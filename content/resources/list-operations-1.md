@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class exercise demonstrates more simple list operations in Python, including indexing, extending, sorting, and deleting.
 
 **Instructor:** Dr. Ana Bell
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Dr. Bell discusses testing, debugging, and exceptions and assertion statements in Python.
 
 **Instructor:** Dr. Ana Bell
+

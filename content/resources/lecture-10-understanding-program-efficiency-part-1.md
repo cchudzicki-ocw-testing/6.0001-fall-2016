@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Grimson introduces algorithmic complexity, a rough measure of the efficiency of a program. He then discusses Big "Oh" notation and different complexity classes.
 
 **Instructor:** Prof. Eric Grimson
+

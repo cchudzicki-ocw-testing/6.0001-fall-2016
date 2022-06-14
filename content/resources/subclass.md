@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class question demonstrates how subclasses are constructed in Python.
 
 **Instructor:** Dr. Ana Bell
+

@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class question demonstrates basic list operations in Python.
 
 **Instructor:** Dr. Ana Bell
+

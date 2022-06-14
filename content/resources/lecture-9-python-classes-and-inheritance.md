@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Dr. Bell continues the discussion of Object Oriented Programming in Python, with an emphasis on data control, inheritance, and subclasses.
 
 **Instructor:** Dr. Ana Bell
+

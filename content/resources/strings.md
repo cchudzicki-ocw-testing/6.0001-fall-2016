@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class exercise demostrates working with strings in Python.
 
 **Instructor:** Dr. Ana Bell
+

@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class question demonstrates how a custom class method can be constructed in Python.
 
 **Instructor:** Dr. Ana Bell
+

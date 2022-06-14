@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class question demonstrates how functions can be used as arguments in other functions in Python.
 
 **Instructor:** Dr. Ana Bell
+

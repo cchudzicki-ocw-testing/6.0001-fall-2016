@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Dr. Bell discusses string manipulation, guess-and-check algorithms, approximate solution methods, and bisection search.
 
 **Instructor:** Dr. Ana Bell
+

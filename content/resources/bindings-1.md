@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class question explains variable bindings and the order of operations in python.
 
 **Instructor:** Dr. Ana Bell
+

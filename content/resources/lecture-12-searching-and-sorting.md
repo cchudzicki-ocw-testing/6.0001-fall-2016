@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Grimson explains basic search and sort algorithms, including linear search, bisection search, bubble sort, selection sort, and merge sort.
 
 **Instructor:** Prof. Eric Grimson
+

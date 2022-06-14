@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class question explains what mathematical statements are and are not valid in python.
 
 **Instructor:** Dr. Ana Bell
+

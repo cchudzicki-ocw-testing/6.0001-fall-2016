@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class question demonstrates class definitions in Python.
 
 **Instructor:** Dr. Ana Bell
+

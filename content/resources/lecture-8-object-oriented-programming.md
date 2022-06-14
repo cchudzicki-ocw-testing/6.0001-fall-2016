@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Dr. Bell introduces Object Oriented Programming and discusses its representation in Python.
 
 **Instructor:** Dr. Ana Bell
+

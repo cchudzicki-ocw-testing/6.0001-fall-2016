@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class exercise demonstrates class method construction in Python.
 
 **Instructor:** Dr. Ana Bell
+

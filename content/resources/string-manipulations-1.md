@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class question demonstrates the use of string indices in Python.
 
 **Instructor:** Dr. Ana Bell
+

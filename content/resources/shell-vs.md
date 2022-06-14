@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class question explains the difference between the IDLE python environment and the shell.
 
 **Instructor:** Dr. Ana Bell
+

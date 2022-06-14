@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Grimson continues discussing different classes of algorithmic complexity, including logarithmic complexity, polynomial complexity, and exponential complexity.
 
 **Instructor:** Prof. Eric Grimson
+

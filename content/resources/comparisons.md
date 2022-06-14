@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class exercise demonstrates how conditionals and comparisons work in Python.
 
 **Instructor:** Dr. Ana Bell
+

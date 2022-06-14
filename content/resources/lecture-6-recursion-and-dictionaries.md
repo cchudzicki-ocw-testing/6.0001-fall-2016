@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Grimson introduces the concept of recursion and the Python dictionary data type.
 
 **Instructor:** Prof. Eric Grimson
+

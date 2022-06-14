@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class question demonstrates tuples in Python, including the difference between tuples and strings.
 
 **Instructor:** Dr. Ana Bell
+

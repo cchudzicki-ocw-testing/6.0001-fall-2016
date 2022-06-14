@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Dr. Bell discusses program structuring, functions, specifications, scoping, and the difference between the "return" and "print" keywords in Python.
 
 **Instructor:** Dr. Ana Bell
+

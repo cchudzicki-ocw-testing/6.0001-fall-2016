@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This in-class question explains how and why class attribute getters and setters are important in Python.
 
 **Instructor:** Dr. Ana Bell
+
