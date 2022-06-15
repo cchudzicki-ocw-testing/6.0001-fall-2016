@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains questions asked during 6.0001 lectures, along with
+  solution videos.
 learning_resource_types: []
 ocw_type: CourseSection
 title: In-Class Questions and Video Solutions

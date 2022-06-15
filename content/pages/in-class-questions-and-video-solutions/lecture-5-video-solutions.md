@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains videos of solutions to in-class exercises.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: In-Class Questions and Video Solutions
